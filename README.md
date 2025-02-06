@@ -92,3 +92,6 @@ yolte-np im trying to fixx the thing with gradle...when will u able to call?i ca
 
 
 kidkick76-i can start a call in about 5 hours no guarantees if not it will be like 6-7 hours
+
+
+kidkick76-can you upload the entire file to here as well
