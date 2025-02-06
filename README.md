@@ -47,3 +47,5 @@ kidkick76-thanks
 
 
 kidkick76-did you add the file
+
+im trying to fix gradle rn one min
