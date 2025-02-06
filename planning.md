@@ -5,3 +5,5 @@
  places
 
  weapons
+
+npcs like bosses etc(egg spawner,summoner)
