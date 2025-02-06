@@ -1,5 +1,5 @@
 # examplemod
-yolte-yoooooo sam
+yolte-yoooooo kidkick76
 
 
 kidkick76-hi wsp
@@ -28,7 +28,7 @@ kidkick76-feel free to add as well
 kidkick76-mods we might want are journey map, apple skin, hats, morph, waystones, 
 
 
-well i got a problem though with gradle commands , terminal is not recongizing them so i m downloading gradle
+yolte-well i got a problem though with gradle commands , terminal is not recongizing them so i m downloading gradle
 
 
 kidkick76-ok if its a problem with terminal than there should be a command to fix it
