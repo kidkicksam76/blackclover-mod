@@ -75,8 +75,11 @@ youlte-alr
 kidkick76-let me know when its done
 
 
-yoooooooooooo, can i just upload the folder?
+yolte-yoooooooooooo, can i just upload the folder?
 
-yooooooo we gon need to go to a call fr cant undestand anyhing
+kidkick76-tes upload the folder
+
+yolte-yooooooo we gon need to go to a call fr cant undestand anyhing
 
 
+kidkick76-the only way we can do that is if we do it on linkden and even than i might not be able to do it
