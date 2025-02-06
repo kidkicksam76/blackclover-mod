@@ -73,3 +73,7 @@ youlte-alr
 
 
 kidkick76-let me know when its done
+
+
+yoooooooooooo, can i just upload the folder?
+
