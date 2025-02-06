@@ -48,4 +48,9 @@ kidkick76-thanks
 
 kidkick76-did you add the file
 
-im trying to fix gradle rn one min
+yolte-im trying to fix gradle rn one min
+
+
+kidkick76-just let me know when your done
+
+
