@@ -109,4 +109,4 @@ yolte-so can you delete the files i uploaded? and when im done(almost) am gonna 
 kidkick76-no i need to figue out how
 
 
-yolte-
+yolte- alr imma do it
