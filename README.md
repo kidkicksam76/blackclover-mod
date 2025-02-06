@@ -124,4 +124,7 @@ yolte-* What went wrong:Could not determine the dependencies of task ':classes'.
 kidkick76-idk ill look it up in a bt im in math class rin but ill take a look later
 
 
-yolte-
+yolte- yooo sam remove // Register our mod's ForgeConfigSpec so that Forge can create and load the config file for us
+        context.registerConfig(ModConfig.Type.COMMON, Config.SPEC);    
+
+from grandle.properties
