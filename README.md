@@ -77,3 +77,6 @@ kidkick76-let me know when its done
 
 yoooooooooooo, can i just upload the folder?
 
+yooooooo we gon need to go to a call fr cant undestand anyhing
+
+
