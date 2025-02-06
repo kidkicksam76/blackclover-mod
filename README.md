@@ -26,3 +26,6 @@ kidkick76-feel free to add as well
 
 
 kidkick76-mods we might want are journey map, apple skin, hats, morph, waystones, 
+
+
+well i got a problem though with gradle commands , terminal is not recongizing them so i m downloading gradle
