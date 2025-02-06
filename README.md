@@ -110,3 +110,5 @@ kidkick76-no i need to figue out how
 
 
 yolte- alr imma do it
+
+actually no need to delete them
