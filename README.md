@@ -86,3 +86,5 @@ kidkick76-the only way we can do that is if we do it on linkden and even than i 
 
 
 kidkick76- sorry if i dont respond in time im working on my java corses while im doing this
+
+np im trying to fixx the thing with gradle...when will u able to call?i can be for 5 hours prob
