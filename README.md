@@ -63,5 +63,7 @@ yolte-uploaded things
 
 kidkick76-can you upload all the files
 
-tell me which files
+yolte-tell me which files
 
+
+kidkick76-all of them
