@@ -57,3 +57,5 @@ yolte-yo imma upload gradle build
 
 
 kidkick76-ok sweet thanks
+
+uploaded things 
