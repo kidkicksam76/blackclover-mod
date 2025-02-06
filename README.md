@@ -25,7 +25,7 @@ yolte-alr seems good.
 kidkick76-feel free to add as well
 
 
-kidkick76-mods we might want are journey map, apple skin, hats, morph, waystones, 
+kidkick76-mods we might want are journey map, apple skin, hats, morph, waystones, jei
 
 
 yolte-well i got a problem though with gradle commands , terminal is not recongizing them so i m downloading gradle
@@ -33,5 +33,8 @@ yolte-well i got a problem though with gradle commands , terminal is not recongi
 
 kidkick76-ok if its a problem with terminal than there should be a command to fix it
 
-yeah imma figure it out. also, lets first start with the coding for the mod
+yolte-yeah imma figure it out. also, lets first start with the coding for the mod
 but whre you wanna start at
+
+
+kidkick76-i just got to school can you upload the mdk to hit hub and all the other files you have
