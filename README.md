@@ -83,3 +83,6 @@ yolte-yooooooo we gon need to go to a call fr cant undestand anyhing
 
 
 kidkick76-the only way we can do that is if we do it on linkden and even than i might not be able to do it
+
+
+kidkick76- sorry if i dont respond in time im working on my java corses while im doing this
