@@ -111,15 +111,17 @@ kidkick76-no i need to figue out how
 
 yolte- alr imma do it
 
-actually no need to delete them
+yolte-actually no need to delete them
 
 
-check out build.gradle i got this error when trying to run "runClient" FAILURE: Build failed with an exception.
+yolte-check out build.gradle i got this error when trying to run "runClient" FAILURE: Build failed with an exception.
 
-* Where:
-Build file 'C:\MyModProject\build.gradle' line: 155
+yolte-* Where: Build file 'C:\MyModProject\build.gradle' line: 155
 
-* What went wrong:
-Could not determine the dependencies of task ':classes'.
-> Could not create task ':processResources'.
-   > Could not get unknown property 'reincarnatedintheminecraftworldwithmyiphone' for task ':processResources' of type org.gradle.language.jvm.tasks.ProcessResources.
+yolte-* What went wrong:Could not determine the dependencies of task ':classes'.> Could not create task ':processResources'.> Could not get unknown property'reincarnatedintheminecraftworldwithmyiphone' for task ':processResources' of type org.gradle.language.jvm.tasks.ProcessResources.
+
+
+kidkick76-idk ill look it up in a bt im in math class rin but ill take a look later
+
+
+yolte-
