@@ -1,17 +1,17 @@
 # examplemod
-#yolte-yoooooo sam
+yolte-yoooooo sam
 
 
-#kidkick76-hi wsp
+kidkick76-hi wsp
 
 
-#yolte-the code im think of:
+yolte-the code im think of:
 
 
-#yolte-yo wsg what do i do now?
+yolte-yo wsg what do i do now?
 
 
-#kidkick76-now we talk about what we want and need in the mid we are in the planing phase
+kidkick76-now we talk about what we want and need in the mid we are in the planing phase
 
 
 yolte-alr
@@ -20,4 +20,9 @@ yolte-alr
 kidkick76-we need magic, npcs(with diffrent names), places to viset and a level system to unlock magic and buy weapons(the level system is not in the anime it just makes the players life easier)
 
 
-alr seems good.
+yolte-alr seems good.
+
+kidkick76-feel free to add as well
+
+
+kidkick76-mods we might want are journey map, apple skin, hats, morph, waystones, 
