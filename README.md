@@ -95,3 +95,6 @@ kidkick76-i can start a call in about 5 hours no guarantees if not it will be li
 
 
 kidkick76-can you upload the entire file to here as well
+
+
+im redoing the procces again step by step imma send the file after
