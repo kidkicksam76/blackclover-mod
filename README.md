@@ -101,3 +101,8 @@ yolte-im redoing the procces again step by step imma send the file after
 
 
 kidkick76-ok
+
+
+so
+
+can you delete the files i uploaded? and when im done(almost) am gonna send all the files again
