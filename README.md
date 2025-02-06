@@ -53,4 +53,6 @@ yolte-im trying to fix gradle rn one min
 
 kidkick76-just let me know when your done
 
+yo imma upload gradle build
+
 
