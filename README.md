@@ -12,3 +12,4 @@
 
 
 #kidkick76-now we talk about what we want and need in the mid we are in the planing phase
+alr
