@@ -1,7 +1,7 @@
-1. magic
+ magic types - special, fire, water, wind, earth, blood, 
+   
+ level system
 
-2. level system
+ places
 
-3. places
-
-4. weapons
+ weapons
