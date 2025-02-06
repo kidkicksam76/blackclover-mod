@@ -58,4 +58,7 @@ yolte-yo imma upload gradle build
 
 kidkick76-ok sweet thanks
 
-uploaded things 
+yolte-uploaded things 
+
+
+kidkick76-can you upload all the files
