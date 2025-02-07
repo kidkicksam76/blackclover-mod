@@ -37,8 +37,20 @@ yolte-you can learn a lot im at the 2nd tutorial of how to add items in minecraf
 
 kidkick76-ok ill take a look im about to get of of my technical school but i still have 3 classes after this ill be done with school in 4 hours
 
-alr immma be on anyways so when u done text me on discord
 
-imma add null magic
+yolte-alr immma be on anyways so when u done text me on discord
 
-i remade the magic list cause its too much for now if u can make a seperate file for the ones i removed
+
+kidkick76-ok
+
+
+yolte-imma add null magic
+
+
+kidkick76-thats what the special magic is we have to use different names
+
+
+yolte-i remade the magic list cause its too much for now if u can make a seperate file for the ones i removed
+
+
+kidkick76-ok
