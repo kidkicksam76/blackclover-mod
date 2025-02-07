@@ -21,7 +21,7 @@ wind realated types
 
 
 special types
-1. teleport
+1. null
 2. blood
 3. cancelation
 4. magic drain
