@@ -36,3 +36,5 @@ yolte-you can learn a lot im at the 2nd tutorial of how to add items in minecraf
 
 
 kidkick76-ok ill take a look im about to get of of my technical school but i still have 3 classes after this ill be done with school in 4 hours
+
+alr immma be on anyways so when u done text me on discord
