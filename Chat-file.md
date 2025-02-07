@@ -29,8 +29,10 @@ yolte-1.20.1 is good, its the best for out mod
 kidkick76-ok sounds good
 
 
+yolte-i recommend watching this : https://www.youtube.com/watch?v=o6Xbp2dTEGA&list=PLKGarocXCE1H9Y21-pxjt5Pt8bW14twa-&index=3
 
 
-i recommend watching this : https://www.youtube.com/watch?v=o6Xbp2dTEGA&list=PLKGarocXCE1H9Y21-pxjt5Pt8bW14twa-&index=3
+yolte-you can learn a lot im at the 2nd tutorial of how to add items in minecraft and ive already learned how to do almost perfectly without help
 
-you can learn a lot im at the 2nd tutorial of how to add items in minecraft and ive already learned how to do almost perfectly without help
+
+kidkick76-ok ill take a look im about to get of of my technical school but i still have 3 classes after this ill be done with school in 4 hours
