@@ -12,6 +12,9 @@ kidkick76-yolte are you sure you wnt my help im haveing truble with the code lik
 
 yolte-im the same i just catch up fast also for now make the list for the items (that dont need code for example magic reroll that needs the magic system which i havent made)add like swords armor food etc that type of staff send me the list with their names and if u can also the pixel arts. thats it 
 
-added item magic reroll
+yolte-added item magic reroll
 just so i dont forgot it havent added the code for it yet
 i need to start the magic shit first
+
+
+kidkick76-ok ill make th md file
