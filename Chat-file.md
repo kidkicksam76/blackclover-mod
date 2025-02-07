@@ -40,3 +40,5 @@ kidkick76-ok ill take a look im about to get of of my technical school but i sti
 alr immma be on anyways so when u done text me on discord
 
 imma add null magic
+
+i remade the magic list cause its too much for now if u can make a seperate file for the ones i removed
