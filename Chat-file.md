@@ -54,3 +54,5 @@ yolte-i remade the magic list cause its too much for now if u can make a seperat
 
 
 kidkick76-ok
+
+made 2 items with the tab of the mod too, going for blocks now
