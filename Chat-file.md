@@ -18,3 +18,6 @@ i need to start the magic shit first
 
 
 kidkick76-ok ill make th md file
+
+
+kidkick76-also i figured out how to do the 1.16.5 version
