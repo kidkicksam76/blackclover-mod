@@ -55,4 +55,7 @@ yolte-i remade the magic list cause its too much for now if u can make a seperat
 
 kidkick76-ok
 
-made 2 items with the tab of the mod too, going for blocks now
+yolte-made 2 items with the tab of the mod too, going for blocks now
+
+
+kidkick76-ok can you make like a light brick and posible like roof tiles if yoh can
