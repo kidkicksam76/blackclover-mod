@@ -39,9 +39,3 @@ Sovereign-Class Phrase(my name for them Abyssal crystal monsters)same thpe of mo
 
 
 monster(this species that can be really weak to super strong depending on the monster(common-super rare))
-
-
-kohaku(a boss that if you defeat it you gain a new magic skill)
-
-
-Sango & Kokuyou(a boss that if you defeat it you gain a new magic skill)
